@@ -1,0 +1,24 @@
+[
+    {
+        "nama": "Ardy",
+        "umur": 24,
+        "nim": "181011450168",
+        "lulus": true,
+        "hobby": ["coding", "gaming"],
+        "pembimbing": {
+            "pembimbing1": "Rengga Hardiansyah",
+            "pembimbing2": "Heri Ardiansyah"
+        }
+    },
+    {
+        "nama": "Ardy",
+        "umur": 24,
+        "nim": "181011450168",
+        "lulus": true,
+        "hobby": ["coding", "gaming"],
+        "pembimbing": {
+            "pembimbing1": "Rengga Hardiansyah",
+            "pembimbing2": "Heri Ardiansyah"
+        }
+    }
+]
